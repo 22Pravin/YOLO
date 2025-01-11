@@ -57,7 +57,7 @@ Below are some sample images from the dataset:
 ![Sample Image 2](images/Y163.JPG)
 
 #### Class 2 (Non-Cancerous Tumor)
-![Sample Image 3](images/Y161.JPG)
+![Sample Image 3](images/Y162.jpg)
 
 ---
 
